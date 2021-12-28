@@ -64,3 +64,8 @@ input:focus, textarea:focus, select:focus
 {
    filter: drop-shadow(2px 2px 0px rgba(113,113,113,0.20));
 }
+#TextArt3
+{
+   border-width: 0;
+   vertical-align: top;
+}
